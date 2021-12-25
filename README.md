@@ -6,9 +6,16 @@
     <img src="https://komarev.com/ghpvc/?username=vishalsalgond&color=brightgreen" />
 </p>
 
+<div align=right>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsalgond&langs_count=20&theme=highcontrast&layout=compact" />
+    </a>
+</div>
+
 
 - 🏷 All of my projects are available at
-[https://github.com/vishalsalgond/](https://github.com/vishalsalgond/).
+[https://github.com/vishalsalgond/](https://github.com/vishalsalgond/). 
+
 - 💡 Currently learning Go & Kubernetes.
 - 📧 To reach me, drop an email at **vnsalgond@gmail.com**.
 - 📃 Find my resume [here](https://drive.google.com/file/d/1LKfJ3x_3_vBl-bjX7awEeHkxcPBBfY-2/view?usp=sharing).
