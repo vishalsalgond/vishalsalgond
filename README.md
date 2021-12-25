@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Salgond</h1>
-<h3 align="center">A passionate software developer from KJSCE Mumbai, India</h3>
+<h3 align="center">A Passionate Software Developer from KJSCE Mumbai, India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalsalgond&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 
@@ -10,13 +10,13 @@
 </div>
 
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/vishalsalgond/](https://github.com/vishalsalgond/)
-
-- Currently learning Go & Kubernetes
-- 📫 How to reach me, drop an email at **vnsalgond@gmail.com**
-- 4⭐[codechef handle](https://www.codechef.com/users/hehehehhehhe20)
-- Thanks for visiting this profile!
+- 🏷 All of my projects are available at
+[https://github.com/vishalsalgond/](https://github.com/vishalsalgond/).
+- 💡 Currently learning Go & Kubernetes.
+- 📧 To reach me, drop an email at **vnsalgond@gmail.com**.
+- 📃 Find my resume [here](https://drive.google.com/file/d/1LKfJ3x_3_vBl-bjX7awEeHkxcPBBfY-2/view?usp=sharing).
+- 👨‍💻 Check out my [CodeChef Profile](https://www.codechef.com/users/hehehehhehhe20) and [Leetcode Profile](https://leetcode.com/vishal2720/).
+- 🙏 Thank You for visiting my profile!
 ## 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalsalgond&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
@@ -59,6 +59,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.mongodb.com/" target="_blank" title ="MySQL"> <img
+            src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
+            alt="mongodb" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a>
@@ -106,7 +109,7 @@
 </div>
 
 ##
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect With Me</h3>
 <p align="center">
     <a href="https://www.facebook.com/vishal.salgond" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
@@ -114,11 +117,13 @@
     <a href="https://www.linkedin.com/in/vishal-salgond-7aa547186/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/vishal_salgond/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
+            width="40" /></a>
+    <a href="https://twitter.com/SalgondVishal" target="blank"><img align="center"
+            src="https://img.icons8.com/color/50/000000/twitter-circled.png" alt="facebook" height="40"
             width="40" /></a>
 </p>
 
 ------
 Credit: [sudip-mondal-2002](https://github.com/sudip-mondal-2002)
-Last Edited on: 11-06-2021
