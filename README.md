@@ -3,11 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalsalgond&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 
-<div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsalgond&langs_count=20&theme=highcontrast&layout=compact" />
-    </a>
-</div>
+<p align=center>
+    <img src="https://badges.pufler.dev/visits/vishalsalgond/vishalsalgond?color=black&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=vishalsalgond&color=brightgreen" />
+</p>
 
 
 - 🏷 All of my projects are available at
