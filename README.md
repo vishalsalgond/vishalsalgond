@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Salgond</h1>
 <h3 align="center">A Passionate Software Developer from KJSCE Mumbai, India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalsalgond&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-
 
 <p align=center>
     <img src="https://badges.pufler.dev/visits/vishalsalgond/vishalsalgond?color=black&logo=github" />
