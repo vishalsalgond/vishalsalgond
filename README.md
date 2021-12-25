@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishal Salgond</h1>
 <h3 align="center">A Passionate Software Developer from KJSCE Mumbai, India</h3>
 
-<p align=center>
+<p align="center">
     <img src="https://badges.pufler.dev/visits/vishalsalgond/vishalsalgond?color=black&logo=github" />
     <img src="https://komarev.com/ghpvc/?username=vishalsalgond&color=brightgreen" />
 </p>
 
-<div align=right>
+<div align="right">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsalgond&langs_count=20&theme=highcontrast&layout=compact" />
     </a>
@@ -92,8 +92,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-<p align=center>
-  <div align=center>
+<p align="center">
+  <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsalgond&theme=react&border=61dafb" alt="zumrudu-anka" />
     </a>
@@ -106,11 +106,11 @@
 
 ## 
 
-<div align=center>
+<!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=vishalsalgond&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
-</div>
+</div> -->
 
 ##
 <h3 align="center">Connect With Me</h3>
