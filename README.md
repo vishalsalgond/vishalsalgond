@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Salgond</h1>
-<h3 align="center">A Passionate Software Developer from KJSCE Mumbai, India</h3>
+<h3 align="center">A Passionate Software Developer from Mumbai, India</h3>
 
 <p align="center">
     <img src="https://badges.pufler.dev/visits/vishalsalgond/vishalsalgond?color=black&logo=github" />
